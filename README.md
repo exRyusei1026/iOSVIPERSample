@@ -48,7 +48,7 @@ macOS Mojave
 
 ## Licence
 
-[MIT](https://github.com/kobaken0029/tool/blob/master/LICENCE)
+[MIT](https://github.com/kobaken0029/iOSVIPERSample/blob/master/LICENSE)
 
 ## Author
 
